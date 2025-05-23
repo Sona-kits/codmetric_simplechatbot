@@ -13,7 +13,6 @@ A friendly and fun chatbot built using **Python** and **Tkinter** GUI. This proj
 - 📅 Shares current date and time
 - 🤯 Provides random fun facts
 - 🧹 Clear chat with one click
-- 🎨 User-friendly interface with colored text bubbles
 
 ---
 
